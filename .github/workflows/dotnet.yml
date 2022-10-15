@@ -2,8 +2,10 @@ name: .NET build and test and upload docker Image to Docker Registry
 on:
   push:
     branches: [ "main" ]
-#  pull_request:
- #   branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
  
 jobs:
   build:
