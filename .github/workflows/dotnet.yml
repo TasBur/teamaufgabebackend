@@ -29,7 +29,7 @@ jobs:
         password: ${{ secrets.REGISTRY_PASSWORD }} 
         login-server: ${{ secrets.REGISTRY }} 
     - name: Docker Build
-      run: docker build -f src/Logbooks.Api/Dockerfile -t burtas-backend .
+      run: docker build -f Fahrtenbuch_Backend/Dockerfile -t burtas-backend .
     - name: Docker Tag
       run: docker tag burtas-backend:latest idi2020.azurecr.io/burtas-backend:latest
     - name: Docker Push
