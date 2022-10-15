@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{0A36D6F0-08FF-4785-BFC3-A6B51BF7A941}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestBackend FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fahrtenbuch_Backend/Dockerfile">
+    <Files>
+      <File FileName="Fahrtenbuch_Backend/Program.cs" Line="37" Column="32" />
+      <File FileName="Fahrtenbuch_Backend/DTO/JourneyDTO.cs" Line="1" Column="1" />
+      <File FileName="TestBackend/UnitTest1.cs" Line="19" Column="11" />
+      <File FileName="TestBackend/Usings.cs" Line="1" Column="1" />
+      <File FileName="Fahrtenbuch_Backend/Journey.cs" Line="1" Column="1" />
+      <File FileName="TestBackend/IntegrationTest.cs" Line="12" Column="27" />
+      <File FileName="Fahrtenbuch_Backend/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Backend" expanded="True" selected="True">
+            <Node name="docker-compose" expanded="True" />
+            <Node name="Fahrtenbuch_Backend" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="TestBackend" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Microsoft.NET.Test.Sdk" expanded="True">
+                    <Node name="Microsoft.TestPlatform.TestHost" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Backend" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fahrtenbuch__Backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

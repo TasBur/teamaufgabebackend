@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2HqcnhXDNKS7sQybG9H0gQJpAQwJBAyFE8ubxVUAKUo=",
+  "Source": "Fahrtenbuch_Backend",
+  "BasePath": "_content/Fahrtenbuch_Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

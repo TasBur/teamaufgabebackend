@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Fahrtenbuch_Backend.props" />
+</Project>
